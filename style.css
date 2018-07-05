@@ -10,7 +10,7 @@ body {
 }
 @font-face {
   font-family: 'DIST Inking Regular';
-  src: url("../fonts/11610.ttf?srf3rx") format("truetype");
+  src: url("11610.ttf?srf3rx") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -223,3 +223,4 @@ background:-moz-linear-gradient(-90deg, #520100, #520100); background:-webkit-gr
    -webkit-transition-duration: 500ms; }
 #informat33:hover  {    z-index: 1;
 	-webkit-transition-duration: 500ms; }
+
