@@ -1,0 +1,19 @@
+body{
+	background:#202020;
+	text-decoration:none;
+	font-family: 'Shrikhand', cursive;
+
+}
+#content,.content{-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;width:930px;margin:6px auto 10px auto;padding:60px 25px 20px;position:relative;background:#333;color:#bbb}
+#logo{
+-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;width:95%;margin:6px auto 10px auto;padding:60px 25px 20px;position:relative;
+}
+.p1{margin:6px auto 10px auto;padding:60px 25px 20px;position:relative;
+	color: #ffffff;
+	font-size: 300%;
+	text-decoration:none;
+
+}
+.d{
+	float:center;
+}
